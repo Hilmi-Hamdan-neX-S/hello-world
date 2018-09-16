@@ -1,2 +1,2 @@
 # hello-world
-One small repository for man, one new world for human.
+One small repository for borg, one new world for borg-kind.
